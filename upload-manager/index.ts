@@ -68,6 +68,7 @@
    private uploadRetryConfiguration = { retryConfiguration: NoRetryConfigurationDetails };
  
    private numberOfSingleUploadRetry = 0;
+   
    public constructor(
      private readonly client: ObjectStorageClient,
      options?: Partial<UploadOptions>
