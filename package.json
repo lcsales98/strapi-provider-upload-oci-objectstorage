@@ -39,7 +39,7 @@
     "typescript": "^4.8.2"
   },
   "publishConfig": {
-    "access": "restricted",
+    "access": "public",
     "registry": "https://npm.cobasi.com.br"
   }
 }
