@@ -1,6 +1,6 @@
 {
   "name": "@cobasi/strapi-provider-upload-oci-objectstorage",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "OCI Object Storage provider for strapi upload, forked from strapi-provider-upload-oci-objectstorage git://github.com/MiguelArenasVillalobos/strapi-provider-upload-oci-objectstorage.git",
   "keywords": [
     "strapi",
